@@ -1,0 +1,10 @@
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\bin\Debug\platformerconcept.exe.config
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\bin\Debug\platformerconcept.exe
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\bin\Debug\platformerconcept.pdb
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.Form1.resources
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.Properties.Resources.resources
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.exe
+C:\Users\Dan\source\repos\platformerconcept\platformerconcept\obj\Debug\platformerconcept.pdb
