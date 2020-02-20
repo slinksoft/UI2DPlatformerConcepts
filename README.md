@@ -1,4 +1,4 @@
-# UI2DPlatformerConcepts
+# UI 2D Platformer Concepts with C# and Winforms
 Very alpha 2D platformer concepts using UI Designer (Winforms) and C#
 
 
