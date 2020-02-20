@@ -1,0 +1,24 @@
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\bin\Debug\SMBSim.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\bin\Debug\SMBSim.pdb
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\obj\x86\Debug\SMBSim.Form1.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\obj\x86\Debug\SMBSim.Properties.Resources.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\obj\x86\Debug\SMBSim.csproj.GenerateResource.Cache
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\obj\x86\Debug\SMBSim.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\SMBSim\obj\x86\Debug\SMBSim.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.exe
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\bin\Debug\SMBSim.exe
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\bin\Debug\SMBSim.pdb
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.Form1.resources
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.Properties.Resources.resources
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Programming\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\bin\Debug\SMBSim.exe
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\bin\Debug\SMBSim.pdb
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.csprojAssemblyReference.cache
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.Form1.resources
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.Properties.Resources.resources
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.csproj.GenerateResource.cache
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.exe
+C:\Users\Dan\Desktop\Official Portfolio\C#\C# Projects\SMBSim\SMBSim\obj\x86\Debug\SMBSim.pdb
