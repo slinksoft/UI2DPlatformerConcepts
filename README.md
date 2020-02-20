@@ -19,7 +19,7 @@ Fast foward to today, I was bored in one of my classes (it isn't an important cl
 If I ever decide to make a 2D platformer, it will be developed in a game engine, such as Game Maker Studio or Unity. The code is shown is to give the idea that while it is impressive developing game elements from scratch, there are many useful resources out on the Internet that focus strictly on game development, such as Game Maker Studio, Unity, or Unreal Engine.
 
 With the idea of creating game elements from scratch, 2D overworld games like Zelda are much easier to make versus 2D platformers. My reasonings behind this is the following:
-- You have to deal with gravity in your enviornment
+- You have to deal with gravity in your environment
 - More animation (coding wise) needs to be done (idle left, idle right, move left, move right, and then making sure correct animations/sprites play when jumping and landing)
 - Collision work is more complicated due to dealing with gravity
 
@@ -33,3 +33,5 @@ Moral of the story: GRAVITY COMPLICATES A LOT OF THINGS!!!
 Anyways, I had fun with these concepts. One day, I might drop my Zelda concept source, but it is a bit messy...
 
 These concepts are not perfect whatsoever, and can be greatly improved. I am not the best programmer, so, ... yeah.
+
+I have more important things to focus on, such as my academic studies and other projects that I feel have importance to them, which is why I do not want to continue development on these concepts. Again, I will use a game engine if I decide to make a 2D platformer.
